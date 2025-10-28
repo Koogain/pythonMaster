@@ -1,0 +1,1 @@
+print(a1.deposit(100))
