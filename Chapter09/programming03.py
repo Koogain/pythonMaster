@@ -8,5 +8,3 @@ print(result)
 plt.figure(figsize=(5,3))
 plt.plot(lst, result)
 plt.show()
-
-#pro
